@@ -21,10 +21,6 @@ Built as part of **CS1027B – Computer Science Fundamentals II**, this program 
 The path taken is printed as a list of cell IDs:
 6 8 11 14 17 20 21 22 25 28 31 34 37 40 43 46 49 50 53 56 59 60
 
-markdown
-Copy
-Edit
-
 This represents the sequence of steps from the start cell to Middlesex College while following all the rules.
 
 ## 📚 Concepts Used
