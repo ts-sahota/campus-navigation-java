@@ -1,3 +1,4 @@
+![Campus Navigation Preview](thumbnail.jpg)
 # campus-navigation-java
 Pathfinding algorithm using custom stack and backtracking
 ## 🧠 Overview
